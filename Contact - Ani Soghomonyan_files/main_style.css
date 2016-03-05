@@ -108,10 +108,10 @@
  .fancybox-next span:before { content: '\3009'; }
  .fancybox-close { top: 20px; right: 20px; }
  .fancybox-close:before { content: '\00D7'; }
- .landing-page .banner-wrap { min-height: 65vh; max-height: 650px; background: url(../default-bg.jpg) no-repeat; background-size: cover; background-position: center center; }
+ .landing-page .banner-wrap { min-height: 65vh; max-height: 650px; background: url(../default-bg.jpg?1456718811) no-repeat; background-size: cover; background-position: center center; }
  .landing-page .banner-wrap .container { height: 65vh; }
  .tall-header-page { background: none; }
- .tall-header-page .banner-wrap { min-height: 400px; background: url(../default-bg.jpg) no-repeat; background-size: cover; background-position: center center; }
+ .tall-header-page .banner-wrap { min-height: 400px; background: url(../default-bg.jpg?1456718811) no-repeat; background-size: cover; background-position: center center; }
  .tall-header-page .banner-wrap .container { height: 400px; }
  .tall-header-page .banner-wrap div.paragraph { margin-bottom: 0; }
  .tall-header-page .banner-wrap p { margin-bottom: 0; }
