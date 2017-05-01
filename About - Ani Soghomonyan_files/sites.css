@@ -8,4 +8,5 @@ img{-ms-interpolation-mode:bicubic}.wsite-placeholder{color:#a9a9a9}::-webkit-in
 .profile-thumbnails img:hover {
 	opacity: .6;
 	cursor: pointer;
+	border: 1px solid #777;
 }
